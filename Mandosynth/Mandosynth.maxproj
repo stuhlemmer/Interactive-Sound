@@ -1,9 +1,9 @@
 {
 	"name" : "Mandosynth",
 	"version" : 1,
-	"creationdate" : 3816379650,
-	"modificationdate" : 3816422764,
-	"viewrect" : [ 11.0, 91.0, 300.0, 500.0 ],
+	"creationdate" : 3816784197,
+	"modificationdate" : 3816789588,
+	"viewrect" : [ 17.0, 87.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -19,14 +19,22 @@
 		}
 ,
 		"media" : 		{
-			"Mandosynth_Background.png" : 			{
+			"Mandosynth_BG.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/Interactive-Sound/Mandosynth/Mandosynth",
-					"projectrelativepath" : ".."
+					"bootpath" : "~/Desktop",
+					"projectrelativepath" : "../../../../Desktop"
 				}
 
+			}
+
+		}
+,
+		"other" : 		{
+			"Mandosynth.sfz" : 			{
+				"kind" : "sampleinstrument",
+				"local" : 1
 			}
 
 		}
